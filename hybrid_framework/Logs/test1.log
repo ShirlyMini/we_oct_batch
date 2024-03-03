@@ -1,0 +1,52 @@
+INFO :: 2024-02-17 20:25:39,464 TC::test_verify_title
+INFO :: 2024-02-17 20:25:39,464 Successfully Logged in
+INFO :: 2024-02-17 20:25:39,497 TC::test_verify_title=Passed
+INFO :: 2024-02-17 20:25:49,226 TC::test_verify_login
+INFO :: 2024-02-17 20:25:49,420 Successfully given username
+INFO :: 2024-02-17 20:25:49,545 Successfully given password
+INFO :: 2024-02-17 20:25:52,107 Login into the application...
+INFO :: 2024-02-17 20:25:55,734 TC::test_verify_login=Passed
+INFO :: 2024-02-24 19:09:26,301 TC::test_verify_title
+INFO :: 2024-02-24 19:09:26,580 Successfully Logged in
+INFO :: 2024-02-24 19:09:27,045 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:09:48,471 TC::test_verify_login
+INFO :: 2024-02-24 19:09:48,842 Successfully given username
+INFO :: 2024-02-24 19:09:48,997 Successfully given password
+INFO :: 2024-02-24 19:09:51,181 Login into the application...
+INFO :: 2024-02-24 19:09:57,233 TC::test_verify_login=Passed
+INFO :: 2024-02-24 19:12:57,214 TC::test_verify_title
+INFO :: 2024-02-24 19:12:57,214 Successfully Logged in
+INFO :: 2024-02-24 19:12:58,019 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:14:05,448 TC::test_verify_title
+INFO :: 2024-02-24 19:14:05,449 Successfully Logged in
+INFO :: 2024-02-24 19:14:05,457 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:16:23,478 TC::test_verify_title
+INFO :: 2024-02-24 19:16:23,479 Successfully Logged in
+INFO :: 2024-02-24 19:16:23,485 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:16:31,924 TC::test_verify_login
+INFO :: 2024-02-24 19:16:32,161 Successfully given username
+INFO :: 2024-02-24 19:16:32,326 Successfully given password
+INFO :: 2024-02-24 19:16:34,942 Login into the application...
+INFO :: 2024-02-24 19:16:38,732 TC::test_verify_login=Passed
+INFO :: 2024-02-24 19:17:55,121 TC::test_verify_title
+INFO :: 2024-02-24 19:17:55,121 Successfully Logged in
+INFO :: 2024-02-24 19:17:55,131 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:18:03,725 TC::test_verify_login
+INFO :: 2024-02-24 19:18:03,968 Successfully given username
+INFO :: 2024-02-24 19:18:04,202 Successfully given password
+INFO :: 2024-02-24 19:18:05,941 Login into the application...
+INFO :: 2024-02-24 19:18:45,655 TC::test_verify_title
+INFO :: 2024-02-24 19:18:45,655 Successfully Logged in
+INFO :: 2024-02-24 19:18:45,675 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:18:54,255 TC::test_verify_login
+INFO :: 2024-02-24 19:18:54,467 Successfully given username
+INFO :: 2024-02-24 19:18:54,686 Successfully given password
+INFO :: 2024-02-24 19:18:56,484 Login into the application...
+INFO :: 2024-02-24 19:20:01,641 TC::test_verify_title
+INFO :: 2024-02-24 19:20:01,646 Successfully Logged in
+INFO :: 2024-02-24 19:20:01,661 TC::test_verify_title=Passed
+INFO :: 2024-02-24 19:20:09,789 TC::test_verify_login
+INFO :: 2024-02-24 19:20:10,119 Successfully given username
+INFO :: 2024-02-24 19:20:10,276 Successfully given password
+INFO :: 2024-02-24 19:20:12,271 Login into the application...
+INFO :: 2024-02-24 19:20:17,018 TC::test_verify_login=Passed

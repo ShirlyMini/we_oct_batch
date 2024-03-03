@@ -1,0 +1,5 @@
+INFO :: 2024-02-24 20:04:25,882 TC::test_verify_login
+INFO :: 2024-02-24 20:04:26,390 Successfully given username
+INFO :: 2024-02-24 20:04:26,559 Successfully given password
+INFO :: 2024-02-24 20:04:27,324 Login into the application...
+INFO :: 2024-02-24 20:04:30,162 TC::test_verify_login=Passed
