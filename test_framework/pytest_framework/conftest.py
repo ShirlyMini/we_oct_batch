@@ -25,7 +25,6 @@ def setup2():
     yield True,True
     print("logout and close browser")
 
-###############################
 def pytest_configure(config):
     #config.addinivalue_line("markers", "marker_name: desc")
     config.addinivalue_line("markers", "sanity: sanity testing")
